@@ -1,2 +1,2 @@
-# multinivel
-Esquema multinivel de los productos
+# Multinivel
+Esquema multinivel para comercialización de productos
